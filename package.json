@@ -14,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/calthoff/mms.git"
+    "url": "git+https://github.com/cbrownvon/mms.git"
   },
   "author": "Cory Althoff",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/calthoff/mms/issues"
+    "url": "https://github.com/cbrownvon/mms/issues"
   },
-  "homepage": "https://github.com/calthoff/mms#readme"
+  "homepage": "https://github.com/cbrownvon/mms#readme"
 }
